@@ -20,3 +20,7 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Reference
+
+[https://qiita.com/hirotatsuuu/items/101a613af9afd27353bb](https://qiita.com/hirotatsuuu/items/101a613af9afd27353bb)
